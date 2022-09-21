@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan 👋:computer:
 
-![Ivan nicolas avila 1000](https://user-images.githubusercontent.com/92653497/191421096-cce6e786-196b-4c02-b425-ef1983374b82.png)
+![ivan nicolas](https://user-images.githubusercontent.com/92653497/191513295-46b15218-6451-4d43-bf07-e35aa0c865ac.png)
 
 
 ## My tour :v:
