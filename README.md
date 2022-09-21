@@ -20,6 +20,9 @@ Hi, I'm Ivan 👋 :computer:
     trabajar en equipo por lo que poseo una rápida adaptación y podría ser de
     gran contribución a cualquier equipo
     de trabajo.
+    
+    
+    [![IvanNicoavila's github stats] (https://github-readme-stats-vercel.app/api?username=IvanNicoavila)](https://github.com/IvanNicoavila/github-readme-stats)
 
     
 
