@@ -1,12 +1,11 @@
 Hi, I'm Ivan 👋 :computer:
 
-![Ivan nicolas avila](https://user-images.githubusercontent.com/92653497/191415809-be8bdbc0-347a-4aec-9bd2-352abf45568c.png)
+![Ivan Nicolas Avila3](https://user-images.githubusercontent.com/92653497/191418873-36f36a9d-1642-4ecf-88d4-ef276efb675f.png)
 
 
  Hace un año comencé mi camino en el mundo del desarrollo web, 
  orientado al lado del Frontend, actualmente cuento con conocimientos
- en HMTL, CSS, JAVASCRIPT y REACT ( aunque siempre en continuo aprendizaje 😂) 
-
+ en HMTL, CSS, JAVASCRIPT y REACT ( aunque siempre en continuo aprendizaje 😂).
  Estoy en busca de mi primer empleo en el mundo IT,
  donde pueda aplicar mis conocimientos, seguir aprendiendo y crecer en un entorno profesional.
   
