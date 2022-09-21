@@ -22,7 +22,7 @@ Hi, I'm Ivan 👋 :computer:
     de trabajo.
     
     
-    [![IvanNicoavila's github stats] (https://github-readme-stats-vercel.app/api?username=IvanNicoavila)](https://github.com/IvanNicoavila/github-readme-stats)
+    [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila)](https://github.com/IvanNicoavila/github-readme-stats)
 
     
 
