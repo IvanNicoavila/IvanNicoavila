@@ -28,9 +28,9 @@
 
 ## My stats :chart_with_upwards_trend:
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNicoavila&layout=compact)](https://github.com/IvanNicoavila/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNicoavila&layout=compact&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
  
- [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila)](https://github.com/IvanNicoavila/github-readme-stats)
+ [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila&show_icons=true&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
  
  
  
