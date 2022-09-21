@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi, I'm Ivan 👋 :computer:
 
-<!--
-**IvanNicoavila/IvanNicoavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ivan nicolas avila](https://user-images.githubusercontent.com/92653497/191415809-be8bdbc0-347a-4aec-9bd2-352abf45568c.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hace un año comencé mi camino en el mundo del desarrollo web, 
+ orientado al lado del Frontend, actualmente cuento con conocimientos
+ en HMTL, CSS, JAVASCRIPT y REACT ( aunque siempre en continuo aprendizaje 😂) 
+
+ Estoy en busca de mi primer empleo en el mundo IT,
+ donde pueda aplicar mis conocimientos, seguir aprendiendo y crecer en un entorno profesional.
+  
+📲 Contact 
+
+   - [Linkedin](https://www.linkedin.com/in/ivan-nicolas-avila-3ba5b2170/)
+   
+👨‍💻 About me 
+
+    Tengo 25 años y soy de Buenos Aires, Argentina.
+    Soy una persona responsable, comprometida y proactiva, disfruto de
+    trabajar en equipo por lo que poseo una rápida adaptación y podría ser de
+    gran contribución a cualquier equipo
+    de trabajo.
+
+    
+
