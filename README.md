@@ -1,6 +1,6 @@
 Hi, I'm Ivan 👋 :computer:
 
-![Ivan Nicolas Avila3](https://user-images.githubusercontent.com/92653497/191418873-36f36a9d-1642-4ecf-88d4-ef276efb675f.png)
+![Ivan nicolas avila 1000](https://user-images.githubusercontent.com/92653497/191421096-cce6e786-196b-4c02-b425-ef1983374b82.png)
 
 
  Hace un año comencé mi camino en el mundo del desarrollo web, 
