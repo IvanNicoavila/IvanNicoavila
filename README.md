@@ -11,6 +11,14 @@
     Estoy en busca de mi primer empleo en el mundo IT,
     donde pueda aplicar mis conocimientos, seguir aprendiendo y crecer en un entorno profesional.
     
+
+## My stats :chart_with_upwards_trend:
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNicoavila&layout=compact&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
+ 
+ [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila&show_icons=true&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
+ 
+
 ## About me 👨‍💻 
 
     Tengo 25 años y soy de Buenos Aires, Argentina.
@@ -18,19 +26,10 @@
     trabajar en equipo por lo que poseo una rápida adaptación y podría ser de
     gran contribución a cualquier equipo de trabajo.
     
+    
 ## Contact 📲 
 
-<a href="https://www.linkedin.com/in/ivan-nicolas-avila-3ba5b2170/">
- <img align="left" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
 - [Linkedin](https://www.linkedin.com/in/ivan-nicolas-avila-3ba5b2170/)
-
-
-## My stats :chart_with_upwards_trend:
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNicoavila&layout=compact&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
- 
- [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila&show_icons=true&theme=dark)](https://github.com/IvanNicoavila/github-readme-stats)
  
  
  
