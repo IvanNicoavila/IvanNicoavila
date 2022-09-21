@@ -2,8 +2,6 @@ Hi, I'm Ivan 👋 :computer:
 
 ![Ivan nicolas avila 1000](https://user-images.githubusercontent.com/92653497/191421096-cce6e786-196b-4c02-b425-ef1983374b82.png)
 
-![Ivan](https://user-images.githubusercontent.com/92653497/191422099-158be776-8a51-41d1-a511-383fc09b0961.png)
-
 
  Hace un año comencé mi camino en el mundo del desarrollo web, 
  orientado al lado del Frontend, actualmente cuento con conocimientos
