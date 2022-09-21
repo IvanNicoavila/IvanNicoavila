@@ -21,15 +21,19 @@
 ## Contact 📲 
 
 <a href="https://www.linkedin.com/in/ivan-nicolas-avila-3ba5b2170/">
- <img align="left" alt="Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+ <img align="left" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
 </a>
 - [Linkedin](https://www.linkedin.com/in/ivan-nicolas-avila-3ba5b2170/)
 
 
 ## My stats :chart_with_upwards_trend:
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNicoavila&layout=compact)](https://github.com/IvanNicoavila/github-readme-stats)
  
  [![IvanNicoavila's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanNicoavila)](https://github.com/IvanNicoavila/github-readme-stats)
+ 
+ 
+ 
   
   
 
